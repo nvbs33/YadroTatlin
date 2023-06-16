@@ -1,0 +1,8 @@
+{
+  "rewind_delay": 0,
+  "fb_delay": 0,
+  "pos_delay": 0,
+  "rw_delay": 0,
+  "input_file": "rand.bin",
+  "output_file": "output.bin"
+}
